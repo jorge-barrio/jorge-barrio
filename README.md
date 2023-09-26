@@ -1,4 +1,4 @@
-# Hello World!! 👋
+# 👋🏼 Hello World!!
 
 ### Welcome to my GitHub :octocat:
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-## 🤝🏻 &nbsp;Connect with Me
+## ✌🏼 Contact with Me
 
 <p align="start">
 <a href="https://www.jorgebarrio.com"><img src="https://img.shields.io/badge/-jorgebarrio.com-3423A6?style=flat&logo=googlechrome&logoColor=white"/></a>
