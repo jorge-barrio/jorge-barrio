@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 ## ✌🏼 Contact with Me
 
 <p align="start">
-<a href="https://www.jorgebarrio.com"><img src="https://img.shields.io/badge/-jorgebarrio.com-3423A6?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.jorgebarrio.pages.dev.com"><img src="https://img.shields.io/badge/-jorgebarrio.pages.dev-3423A6?style=flat&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/jorge-barrio"><img src="https://img.shields.io/badge/-Jorge_Barrio-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
